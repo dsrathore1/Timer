@@ -1,4 +1,4 @@
-# timer
+# Timer
 
 A new Flutter project.
 
