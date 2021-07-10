@@ -3,7 +3,7 @@
 A new Flutter project.
 <h2 align = 'center'> </h2>
 <div align = 'left'> 
-<img align = 'left' height = '400' width = '200' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/GIFs/1.gif'></div>  <div align = 'right'> <img height = '400' width = '200' src = 'https://github.com/dsrathore1/Timer/blob/master/assets/Images/Timer.jpg'></div>
+<img align = 'left' height = '400' width = '200' src = 'https://github.com/dsrathore1/Timer/blob/master/assets/Images/Stopwatch.jpg'></div>  <div align = 'right'> <img height = '400' width = '200' src = 'https://github.com/dsrathore1/Timer/blob/master/assets/Images/Timer.jpg'></div>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
